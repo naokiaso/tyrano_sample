@@ -15,8 +15,7 @@
 
 
 
-
-
+(中略)[l][r]
 
 Naoki Asoは...[l][r]
 
@@ -31,8 +30,8 @@ Naoki Asoは...[l][r]
 [bg storage=sleep.jpg time=500]
 
 Naoki Asoは女子にビンタされた。[r]
-Naoki Asoは、ひどく赤面した。
-Naoki Aso は倒された。[r]
+Naoki Asoは、ひどく赤面した。[r]
+Naoki Asoは倒れた。[r]
 
 【 BAD END 】[l][cm]
 
@@ -44,7 +43,7 @@ Naoki Aso は倒された。[r]
 
 [cm]
 Naoki Aso は彼女をつくることができた[l][r]
-うれちいうれちい　Naoki Aso は無事生還した。
+うれちいうれちい　無事生存
 【 GOOD END 】[l][cm]
 
 [jump target=*start]
